@@ -1,0 +1,308 @@
+{
+    "suplementos": [
+        {
+            "_id": 1,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "Max Titanium",
+                "avatar": "maxtitanium.png"
+            },
+            "likes": 57,
+            "product": {
+                "name": "Whey Protein Concentrado",
+                "description": "Suplemento proteico com 24g de proteína por dose, ideal para recuperação muscular e ganho de massa.",
+                "price": 150.0,
+                "url": "https://www.maxtitanium.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "whey1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "whey2.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "whey3.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 2,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "NutriFit",
+                "avatar": "nutrifit.png"
+            },
+            "likes": 82,
+            "product": {
+                "name": "Creatina Monohidratada",
+                "description": "Aumenta a força e o desempenho durante treinos intensos, com alta pureza e solubilidade.",
+                "price": 90.0,
+                "url": "https://www.nutrifit.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "creatina1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "creatina2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 3,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "Growth",
+                "avatar": "growth.png"
+            },
+            "likes": 33,
+            "product": {
+                "name": "BCAA",
+                "description": "Auxilia na recuperação muscular e redução da fadiga, com uma fórmula balanceada de aminoácidos essenciais.",
+                "price": 110.0,
+                "url": "https://www.gsuplementos.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "bcaa1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "bcaa2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 4,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "Max Titanium",
+                "avatar": "maxtitanium.png"
+            },
+            "likes": 45,
+            "product": {
+                "name": "Pré-Treino Energético",
+                "description": "Formulação potente para aumentar a energia e a concentração durante os treinos.",
+                "price": 120.0,
+                "url": "https://www.maxtitanium.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "pre-treino1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "pre-treino2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 5,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "NutriFit",
+                "avatar": "nutrifit.png"
+            },
+            "likes": 67,
+            "product": {
+                "name": "Glutamina",
+                "description": "Ideal para recuperação muscular e fortalecimento do sistema imunológico.",
+                "price": 80.0,
+                "url": "https://www.nutrifit.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glutamina1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glutamina2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 6,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "Growth",
+                "avatar": "growth.png"
+            },
+            "likes": 71,
+            "product": {
+                "name": "Multivitamínico",
+                "description": "Suplemento completo com vitaminas e minerais essenciais para o bem-estar geral e desempenho físico.",
+                "price": 95.0,
+                "url": "https://www.gsuplementos.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "multivitaminico1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "multivitaminico2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 7,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "Growth",
+                "avatar": "growth.png"
+            },
+            "likes": 54,
+            "product": {
+                "name": "Óleo de Peixe",
+                "description": "Fonte rica em ácidos graxos essenciais, promovendo a saúde cardiovascular e a recuperação muscular.",
+                "price": 70.0,
+                "url": "https://www.gsuplementos.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "oleo-peixe1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "oleo-peixe2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 8,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "Growth",
+                "avatar": "growth.png"
+            },
+            "likes": 29,
+            "product": {
+                "name": "Proteína Vegana",
+                "description": "Suplemento proteico à base de plantas, ideal para veganos e vegetarianos.",
+                "price": 130.0,
+                "url": "https://www.gsuplementos.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "proteina-vegana1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "proteina-vegana2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 9,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "Growth",
+                "avatar": "growth.png"
+            },
+            "likes": 78,
+            "product": {
+                "name": "Termogênico",
+                "description": "Aumenta o metabolismo e auxilia na queima de gordura, ajudando na perda de peso.",
+                "price": 100.0,
+                "url": "https://www.gsuplementos.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "termogenico1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "termogenico2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 10,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "Growth",
+                "avatar": "growth.png"
+            },
+            "likes": 92,
+            "product": {
+                "name": "Caseína",
+                "description": "Proteína de lenta absorção, ideal para consumir antes de dormir para promover a recuperação durante o sono.",
+                "price": 160.0,
+                "url": "https://www.gsuplementos.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "caseina1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "caseina2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 11,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "Growth",
+                "avatar": "growth.png"
+            },
+            "likes": 66,
+            "product": {
+                "name": "Whey Protein Concentrado",
+                "description": "Suplemento proteico com 24g de proteína por dose, ideal para recuperação muscular e ganho de massa.",
+                "price": 85.0,
+                "url": "https://www.gsuplementos.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "whey4.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "whey5.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 12,
+            "datetime": "2024-07-30T12:00-0500",
+            "company": {
+                "name": "Growth",
+                "avatar": "growth.png"
+            },
+            "likes": 38,
+            "product": {
+                "name": "HMB",
+                "description": "Suplemento para melhorar a recuperação muscular e reduzir a quebra muscular após treinos intensos.",
+                "price": 140.0,
+                "url": "https://www.gsuplementos.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "hmb1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "hmb2.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
